@@ -1,0 +1,25 @@
+# скомпилированные бинарники Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# папка сборки
+/bin/
+/dist/
+
+# зависимости
+/vendor/
+
+# окружение и секреты
+.env
+*.env
+
+# редакторы и ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
