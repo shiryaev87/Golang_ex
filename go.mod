@@ -1,3 +1,3 @@
-module golang_task
+module golang_tasks
 
 go 1.27.0
